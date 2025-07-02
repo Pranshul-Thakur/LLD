@@ -1,8 +1,4 @@
-# Library Management System (LMS)
-
-You can build a **Library Management System (LMS)** in **a single C++ file** using the principles shown in your screenshots. It's small, relevant, and lets you practice all core OOP concepts and SOLID principles.
-
-## 🛠 Project: **Mini Library Management System**
+## ** Library Management System**
 
 ### 🧩 Features:
 * Add, remove, search books
